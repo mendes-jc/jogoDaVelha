@@ -1,6 +1,8 @@
+# Jogo da Velha - Hash - Built with ReactJS
+
 ![](/screenshot.png)
 
-## Main features:
+## Keywords:
 - React Hooks
 - Styled Components
 
