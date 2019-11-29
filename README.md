@@ -1,4 +1,10 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Jogo da Velha - Hash - Built with ReactJS
+
+![](/screenshot.png)
+
+## Keywords:
+- React Hooks
+- Styled Components
 
 ## Available Scripts
 
