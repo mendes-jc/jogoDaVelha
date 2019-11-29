@@ -1,6 +1,6 @@
 # Jogo da Velha - Hash - Built with ReactJS
 
-![](/screenshot.png)
+![](/hash.png)
 
 ## Keywords:
 - React Hooks
