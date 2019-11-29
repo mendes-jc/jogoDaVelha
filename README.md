@@ -1,4 +1,8 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![](/screenshot.png)
+
+## Main features:
+- React Hooks
+- Styled Components
 
 ## Available Scripts
 
